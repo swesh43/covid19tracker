@@ -20,9 +20,8 @@ function AboutUs() {
 
         <div className="block">
           <Person
-            name="Chitranjan kumar Gupta"
-            img="chitranjan.jpeg"
-            text="Chitranjan kumar Gupta is a final year undergraduate student of Computer Engineering at Delhi Technological 
+            name="Swesh Regmi"
+            text="Swesh regmi is a final year undergraduate student of Computer Engineering at Delhi Technological 
             University."
       />
         </div>
